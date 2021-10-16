@@ -3,7 +3,7 @@ name: فرم گزارش آزمایش نهم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
 title: Session 9 Report
 labels: documentation
-assignees: alimirferdos
+assignees: pourmand1376
 
 ---
 
