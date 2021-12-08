@@ -32,6 +32,7 @@
 
   
   - [Watch Live Interrupts](https://www.linuxjournal.com/content/watch-live-interrupts)
+  - [Introduction to interrupts](https://www.thegeekstuff.com/2014/01/linux-interrupts/)
   
 # ۹.۴ آزمایش ۲ 
 یک وقفه نرم افزاری به سیستم عامل لینوکس اضافه نمایید. آیا امکان فراخوانی این وقفه جدید توسط یک برنامه سطح کاربر وجود دارد؟ چرا؟ 
