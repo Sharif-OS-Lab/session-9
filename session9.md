@@ -48,5 +48,7 @@
 </div>
 
 - [Software-interrupt](https://stackoverflow.com/questions/26025850/generate-and-handle-software-interupt)
+- [Writing an interrupt handler](https://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_prog/inthandler.html)
+- [Handle Interrupt](https://pretagteam.com/question/generate-and-handle-software-interupt)
 
 
