@@ -33,6 +33,8 @@
   
   - [Watch Live Interrupts](https://www.linuxjournal.com/content/watch-live-interrupts)
   - [Introduction to interrupts](https://www.thegeekstuff.com/2014/01/linux-interrupts/)
+  - [More information about interruptions - a](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/s2-proc-interrupts)
+  - [More information about interruptions - b](https://dwaves.de/2017/05/18/linux-list-all-interrupts-show-view-get-infos-about-interrupts-cpu-pci-devices/)
   
 # ۹.۴ آزمایش ۲ 
 یک وقفه نرم افزاری به سیستم عامل لینوکس اضافه نمایید. آیا امکان فراخوانی این وقفه جدید توسط یک برنامه سطح کاربر وجود دارد؟ چرا؟ 
